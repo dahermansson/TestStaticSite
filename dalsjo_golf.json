@@ -1,0 +1,66 @@
+{
+    "name": "Dalsjö Golf",
+    "id": "dalsjo_golf",
+    "courses": [
+        {
+            "name": "18 håls banan",
+            "tees": [
+                {
+                    "name": "60",
+                    "gender": "Men",
+                    "cr": 72.1,
+                    "sr": 139
+                },
+                {
+                    "name": "57",
+                    "gender": "Men",
+                    "cr": 70.7,
+                    "sr": 133
+                },
+                {
+                    "name": "54",
+                    "gender": "Men",
+                    "cr": 69.5,
+                    "sr": 132
+                },
+                {
+                    "name": "47",
+                    "gender": "Men",
+                    "cr": 65.9,
+                    "sr": 124
+                },
+                {
+                    "name": "57",
+                    "gender": "Women",
+                    "cr": 76.2,
+                    "sr": 139
+                },
+                {
+                    "name": "54",
+                    "gender": "Women",
+                    "cr": 75.0,
+                    "sr": 134
+                },
+                {
+                    "name": "47",
+                    "gender": "Women",
+                    "cr": 70.6,
+                    "sr": 125
+                },
+                {
+                    "name": "37",
+                    "gender": "Women",
+                    "cr": 64.2,
+                    "sr": 112
+                }
+            ],
+            "holes": [
+                {
+                    "number": 1,
+                    "par": 4,
+                    "index": 9
+                }
+            ]
+        }
+    ]
+}
